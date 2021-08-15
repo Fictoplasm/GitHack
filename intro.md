@@ -7,6 +7,5 @@ The update creates a more generic system than the original, but with optional mo
 The updated document This has been hosted on GitHub as a public repo to allow cloning and forking of the project for your own needs. Further to this there are the following folders:
 
 * the **Core** folder contains the core game
-* **Extras** are alternative rules
-* the **Modules** are for specific implementations in settings
+* the **Modules** are for specific implementations in settings, plus alternative rules, generally optional stuff
 * **Resources** are additional non-text content (e.g. graphics files)
