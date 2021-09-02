@@ -1,11 +1,17 @@
 # About GitHack
 
-This is a roleplaying game based on an earlier project called StormHack, which was in turn inspired by the later OSR games as well as the original Stormbringer RPG by Ken St. Andre, Lynn Willis, *et al*.
+This is the generic, GitHub available version of my game *StormHack*. That game was originally developed as an OSR-like system that could be used to run *Stormbringer*-like adventures in Moorcock’s Young Kingdoms, but this version is much more generic. It's still intended to embrace the sword-and-sorcery, doomed hero schtick.
 
-The update creates a more generic system than the original, but with optional modules for specific implimentation. The ethos is still to have an OSR game where the characters begin powerful, able to take risks and act like the vigorous antiheroes of Appendix N fiction.
+There are three components to the system:
 
-The updated document This has been hosted on GitHub as a public repo to allow cloning and forking of the project for your own needs. Further to this there are the following folders:
+* **Core** is the main game
+* **Modules** are implementations, supporting random tables, and other options
+* **Resources** are additional things like graphics, character sheets and other non-text items
 
-* the **Core** folder contains the core game
-* the **Modules** are for specific implementations in settings, plus alternative rules, generally optional stuff
-* **Resources** are additional non-text content (e.g. graphics files)
+## Why GitHub?
+
+Even though you can freely collaborate on some indie games the static pdf format isn't optimal. This is a different approach to make it easier to collaborate by presenting it like a software project. The text is in [markdown](https://daringfireball.net/projects/markdown/) making it highly portable whilst supporting basic formatting and tables in a human readable way. You can then take the markdown text and convert it with [pandoc](https://pandoc.org) or view it with your chosen markdown viewer.
+
+Since this is a GitHub project you can clone or fork the repo and submit your own commits for the main branch. You can use Git from the command line and make edits with any text editor, see where your content differs from the main branch, and so on. However there are also graphical tools and plugins available. I recommend [atom.io](https://atom.io) which integrates with GitHub nicely and has a lot of useful packages for writing and rendering markdown, and it's cross-platform.
+
+Ralph (@fictoplasm)
