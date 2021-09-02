@@ -9,7 +9,13 @@ The character creation steps are:
 3. Decide on your **Demon**, any allegiances and corruption
 4. Build the **World** with the other players.
 
-### 2.1 Ability Scores
+### 2.1 The Wheel
+
+The centre of the character sheet is the Wheel, with the Ability Scores arranged clockwise in the order from Strength through to Charisma. Ability Scores are written in each segment, along with any Backgrounds (if that score is tagged with a background).
+
+Around the rim of the wheel is the Demon Track. This is used to keep track of a character's Demon and its influence over the character. As the Demon grows in power, more of the track is filled in and more of each segment is corrupted.
+
+### 2.2 Ability Scores
 
 Characters six Ability Scores, which are used for all manner of skill checks, saving throws and other risk rolls in play. The table below lists the kind of activity and the Archetype that's likely to have an above-average rating:
 
@@ -26,7 +32,7 @@ The range of each score is 3-18 with 10 being average; and since this is a d20 r
 
 Pick the point-buy or random method you like to generate the six scores, e.g. roll 3d6 straight down, roll 4d6 and drop one, spread 72 points between the scores, etc.
 
-### 2.2 Backgrounds
+### 2.3 Backgrounds
 
 If Ability Scores are raw talent, Backgrounds are life experience. All PCs have three distinct backgrounds:
 
@@ -110,8 +116,8 @@ When thinking about your Legacy consider:
 
 At the world-building phase, your Legacy will be connected to some kind of Mystery or Legend.
 
-### 2.3 Demon
+### 2.4 Demon
 
 Your **Demon** is your magic. Whether this is an actual demon conjured by a sorcerer, a priest's allegiance to a greater power, or some kind of self-actualisation or innate magic (supernatural powers, lycanthropy, etc.) it will work the same mechanically.
 
-There are six 
+There are six demonic Realms that represent the magical macrocosm, which mirror the microcosm.
