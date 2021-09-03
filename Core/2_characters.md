@@ -131,7 +131,7 @@ Design your Demon:
 3. Work out your PC's Elan. For every 100 points of Elan, mark off another notch on the Demon Track.
 4. Mark off extra magic dice. If the three notches under a House are marked, you get another die.
 5. If the Demon's corruption enters a segment tagged with a Background, that Background is corrupted.
-	 
+
 #### Realms
 
 There are six demonic Realms which map onto the six Ability Scores on the Wheel. Your Demon can access that Realm's **Suits** (magical petitions) if it has one or more segments ticked off.
@@ -150,4 +150,4 @@ The six Realms and their relationship to the Ability Scores are:
 
 
 
-[image-1]:	/GitHack/Resources/githack_wheel.tiff
+[image-1]:	~/Resources/githack_wheel.tiff
