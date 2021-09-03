@@ -17,7 +17,7 @@ Around the rim of the wheel is the Demon Track of 36 segments. This is used to k
 
 Just outside the track are the twelve Houses. When the three segments under a House are filled in, that House is also activated for additional magical power.
 
-![The Wheel][image-1]
+![The Wheel](githack_wheel.tiff)
 
 ### 2.2 Ability Scores
 
@@ -146,8 +146,3 @@ The six Realms and their relationship to the Ability Scores are:
 | Intelligence | Voyance     | Scrying, divination, knowledge            |
 | Wisdom       | Abeyance    | Conjuring and procuring objects of desire |
 | Charisma     | Obeisance   | Enchantments and possession               |
-
-
-
-
-[image-1]:	~/Resources/githack_wheel.tiff
