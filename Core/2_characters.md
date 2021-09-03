@@ -13,7 +13,11 @@ The character creation steps are:
 
 The centre of the character sheet is the Wheel, with the Ability Scores arranged clockwise in the order from Strength through to Charisma. Ability Scores are written in each segment, along with any Backgrounds (if that score is tagged with a background).
 
-Around the rim of the wheel is the Demon Track. This is used to keep track of a character's Demon and its influence over the character. As the Demon grows in power, more of the track is filled in and more of each segment is corrupted.
+Around the rim of the wheel is the Demon Track of 36 segments. This is used to keep track of a character's Demon and its influence over the character. As the Demon grows in power, more of the track is filled in and more of each segment is corrupted.
+
+Just outside the track are the twelve Houses. When the three segments under a House are filled in, that House is also activated for additional magical power.
+
+![The Wheel][image-1]
 
 ### 2.2 Ability Scores
 
@@ -120,4 +124,30 @@ At the world-building phase, your Legacy will be connected to some kind of Myste
 
 Your **Demon** is your magic. Whether this is an actual demon conjured by a sorcerer, a priest's allegiance to a greater power, or some kind of self-actualisation or innate magic (supernatural powers, lycanthropy, etc.) it will work the same mechanically.
 
-There are six demonic Realms that represent the magical macrocosm, which mirror the microcosm.
+Design your Demon:
+
+1. Tag one of your Ability Scores to infect. This is the Demon's Entry Point. The tagged score doesn't need to be one of those you've tagged before.
+2. Mark off any one of the notches on the Demon Track (6 per ability score, 36 total). Start with a single Magic Die.
+3. Work out your PC's Elan. For every 100 points of Elan, mark off another notch on the Demon Track.
+4. Mark off extra magic dice. If the three notches under a House are marked, you get another die.
+5. If the Demon's corruption enters a segment tagged with a Background, that Background is corrupted.
+	 
+#### Realms
+
+There are six demonic Realms which map onto the six Ability Scores on the Wheel. Your Demon can access that Realm's **Suits** (magical petitions) if it has one or more segments ticked off.
+
+The six Realms and their relationship to the Ability Scores are:
+
+| Microcosm    | Macrocosm   | Effects                                   |
+|:------------ |:----------- |:----------------------------------------- |
+| Strength     | Puissance   | Harm, destruction, holding, combat        |
+| Constitution | Durance     | Armour, wards, banishment                 |
+| Dexterity    | Contrivance | Transport, teleportation and gates        |
+| Intelligence | Voyance     | Scrying, divination, knowledge            |
+| Wisdom       | Abeyance    | Conjuring and procuring objects of desire |
+| Charisma     | Obeisance   | Enchantments and possession               |
+
+
+
+
+[image-1]:	/GitHack/Resources/githack_wheel.tiff
