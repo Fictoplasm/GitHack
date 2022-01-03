@@ -139,7 +139,7 @@ Your Demon got in somewhere on the Wheel. Use this this Entry Point to decide ho
 
 There are six demonic Realms which map onto the six Ability Scores on the Wheel. Your Demon can access that Realm's **Suits** (magical petitions) if it has one or more segments ticked off. The six Realms and their relationship to the Ability Scores are:
 
-| Microcosm    | Macrocosm   | Effects                         |
+| Microcosm    | Macrocosm   | Suits                           |
 |:------------ |:----------- |:------------------------------- |
 | Strength     | Puissance   | Force, destruction, combat      |
 | Constitution | Durance     | Armour, wards, banishment       |
