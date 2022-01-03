@@ -70,9 +70,9 @@ If you make the Ability Score check but don’t manage to hit the Difficulty num
 2. Roll 1d20 to work out who is in the line of fire (see below)
 3. Roll 2d6 for the Effect
 
-The line of fire tells you who or what is affected: 
+The line of fire tells you who or what is affected:
 
-| 1d20  | Who is in the line of fire?       | 
+| 1d20  | Who is in the line of fire?       |
 |:----- |:--------------------------------- |
 | 1-5   | The sorcerer                      |
 | 6-9   | The sorcerer's allies             |
@@ -91,7 +91,7 @@ The Effect may be some kind of Harm, Blight, or Possession:
 | 2-3   | 1d8 damage per margin   |
 | 4-5   | 1d6 damage per margin   |
 | 6-8   | 1d4 damage per margin   |
-| 9-10  | Blight/infection        | 
+| 9-10  | Blight/infection        |
 | 11-12 | Inhabitation/possession |
 
 Where "per margin" is the difference between the difficulty and what you finally rolled, "blight/infection" will be some kind of Deep Wound, and "Inhabitation/Possession" is where the Realm has not fully closed after the suit and has lodged in the place or person.
@@ -145,6 +145,8 @@ Otherwise, Court Demons are formed exactly as their more common counterparts. Ho
 The base difficulty for summoning a Court Demon is 30, and a minimum of 3 dice must be committed to their conjuring. However the special abilities are effectively “free” and don’t need to be accounted for in the difficulty number.
 
 ### 5.5 The Grimoire
+
+``In progress``
 
 Here’s a rundown of the various Realms and the associated Glyphs, Common and Court Demons.
 
@@ -292,36 +294,8 @@ Passing Demons will use their CHA to directly affect others. In addition they ca
 
 ### 5.6 Demons against Demons
 
-Demons often have a CON score, but this is usually not important as they can’t be harmed by any mortal source of damage. This is not the case however when the Demon encounters a supernatural threat.
-
-If a demon is directly injured by a supernatural force (another demon, etc.) damage is done just as it would be for a PC, i.e. each die of damage is compared against the AC of the target and any dice that beat the AC count as a point of damage.
-
-When the damage is done, it directly reduces the demon’s CON score. Once the demon’s CON reaches zero, any damage will destroy it. Note that Glyphs don’t have a CON (or any other score) but they can be directly attacked using demonic damage.
-
-Unless otherwise stated, assume a glyph’s AC is 2, a Common Demon’s AC is 3 and a Court Demon has AC 4 vs. these attacks only.
+``In Progress``
 
 ### 5.7 Appeals for Aid
 
-In desperate times you may want to appeal to your Patron. The success of this entirely depends on your Elan. Knock off the two right-most digits and you’ll get a number from 1 upwards (should be equal to the number of Notches you’ve devoted to that Allegiance).
-
-Roll as many Magic Dice as you want (these must be free, i.e. not bound up in a demon). If at least one is equal to or lower than the number, the Patron hears you. Add any dice that come up 8+ to your Elan, of course. When your Patron answers your plea for aid, they will render some kind of assistance, but it will always come with conditions or a price. How heavy the price will depend on the character's current relationship with their Patron, how desperate the situation, and so on. It would be especially high if the Patron is saving the character from the machinations of one of the other Dukes of Hell, owing to the political fallout of such a manoeuvre.
-
-This will be a one-time offer of aid, to be granted directly and immediately, and the Patron will expect the character to make good on their end. Some requests that a Patron might levy against their subject include:
-
-* Recover an artefact of significance to the cult
-* Restore a temple or shrine
-* Convey a message to someone (which may involve danger, embarrassment, retribution from the recipient, etc.)
-* Inconvenience, ruin, or assassinate an enemy of the Patron
-* Insult one of the Patron's rivals at Court
-* Perform a clandestine action on behalf of the Patron
-* Track down a deal-breaker and exact the Patron's revenge upon them.
-
-On the last point: choosing to break a deal will certainly result in sanctions, but not always be fatal. After all, the subject may still be a loved and valued instrument of the Patron; they just need a bit of discipline. Examples of such measures include:
-
-* Being denied access to Demons under that Patron's purview (but not necessarily Glyphs)
-* Being physically harmed, disfigured, or mutilated.
-* Ability scores being diminished.
-* Loss of taste or smell.
-* A run of bad luck (expressed as one or more disadvantageous rolls per session).
-* Being humiliated.
-* Backgrounds, especially corrupted ones, being brought into play in a disadvantageous way.
+``In Progress``
