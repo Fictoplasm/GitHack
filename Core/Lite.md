@@ -1,22 +1,30 @@
+# GitHack Lite
+
+Version 1.0
+
+Ralph Lovegrove
+Jan 2022
+
 ## 1.0 Creating Characters
 
 ### 1.1 Ability Scores
-The range of each score is 3-18 with 10 being average. Generate the six Ability Scores using any method you like (point-buy, 3d6 down the line, 4d6 drop one, etc.).
 
-This is what each Ability Score is used for.
+Generate the six **Ability Scores** using any method you like (point-buy, 3d6 down the line, 4d6 drop one, etc.). Range of each score is 3-18 with 10 being average.
 
-| Ability      | Activity                         | Archetype                  |
-|:------------ |:-------------------------------- |:-------------------------- |
-| Strength     | Fighting, pushing, restraining   | Warrior, gladiator, knight |
-| Constitution | Surviving, resisting, working    | Ranger, scout, druid       |
-| Dexterity    | Skill, grace, stealth, precision | Acrobat, thief, artisan    |
-| Intelligence | Logic, reasoning, perception     | Sage, scholar, magician    |
-| Wisdom       | Empathy, spirituality, intuition | Mystic, priest, witch      |
-| Charisma     | Impress, intimidate, charm       | Bard, mountebank, artist   |
+This is what each Ability Score is used for:
+
+| Ability      | Activity                                                              |
+|:------------ |:--------------------------------------------------------------------- |
+| Strength     | opposing things physically (fighting, pushing, restraining etc)       |
+| Constitution | surviving/resisting (fatigue, damage, poison, etc)                    |
+| Dexterity    | default for many physical activities (manual dex, speed and agility)  |
+| Intelligence | default for many mental tests (knowledge and reasoning, search/scan)  |
+| Wisdom       | mental resistance and intuition (gut feel, empathy, willpower)        |
+| Charisma     | interacting with people (communicating to impress, intimidate, charm) |
 
 ### 1.2 Backgrounds
 
-PCs have three backgrounds:
+PCs have three **Backgrounds**:
 
 | Background | Summary                                  | Worldbuilding |
 |:---------- |:---------------------------------------- |:------------- |
@@ -24,97 +32,66 @@ PCs have three backgrounds:
 | Company    | Who you fell in with after you left home | Group         |
 | Legacy     | Something you inherited at birth         | Legend        |
 
-For each background tag an ability score and write any details in the segment on the Wheel.
+For each Background tag an Ability Score and write any details in the segment on the Wheel. All Backgrounds give you some kind of advantage in play (skills, experience, contacts, resources). There are no hard and fast rules on what makes each kind of Background, but here are some examples sorted by Ability Score:
 
+#### Strength
 
+| Strength | example                                 |
+|:-------- |:--------------------------------------- |
+| Family   | grew up in violent/dangerous situation  |
+| Company  | joined a war band, mercenary unit, etc. |
+| Legacy   | a weapon handed down by past generation |
 
-#### Family
+#### Constitution
 
-Your **Family** are the people you grew up around. This background includes the trials of life, family trades, and other experiences. Tag one of your Ability Scores:
-
-| Tag          | Family                                                           |
-|:------------ |:---------------------------------------------------------------- |
-| Strength     | harsh or violent upbringing |
-| Constitution | early life spent outdoors |
-| Dexterity    | family practiced a trade or craft                           |
-| Intelligence | Your family were experts in a particular field                   |
-| Wisdom       | Your family held particular beliefs                              |
-| Charisma     | You grew up around influential, famous or mysterious people      |
-
-Some further questions to ask yourself about your Family:
-
-* What does your family do? What did you learn from them?
-* What kind of upbringing did you have? Who raised you? Was it a parent, grandparent, gang, commune or village?
-* What's your relationship with your family now?
-
-When you come to build the World, Family will connect you to a Homeland.
-
-#### Company
-
-**Company** are the people you fell in with after you left home. Tag a new ability score for Company:
-
-| Tag          | Company                                                    |
-|:------------ |:---------------------------------------------------------- |
-| Strength     | You joined a war-band or other military unit               |
-| Constitution | You fell in with travellers or explorers and saw the world |
-| Dexterity    | You were apprenticed to a guild                            |
-| Intelligence | You obtained a position of status in an organisation       |
-| Wisdom       | You joined a cult or political movement                    |
-| Charisma     | You fell in with artists and players                       |
-
-When thinking about your Company, consider:
-
-* What common skill, career or situation bound you together?
-* Where did you travel with these people?
-
-At the world-building phase, Company will connect you to a Group of people.
-
-#### Legacy
-
-Your Legacy is something you inherited from your ancestors that affects your life. It could be
-
-* Something genetic, i.e. inherited traits from your bloodline
-* An item you own
-* Membership of a select group (allies, contacts)
-
-. It could be something your ancestor did, something they left to you, something genetic or magical you inherited from them. Like all Backgrounds this can give you some kind of advantage, in this case in the form of Trappings. Tag a third and final ability score:
-
-| Tag          | Legacy                                         |
+| Constitution | example                                        |
 |:------------ |:---------------------------------------------- |
-| Strength     | A weapon                                       |
-| Constitution | Immunity or resistance                         |
-| Dexterity    | Enhanced movement, permission to enter a place |
-| Intelligence | Membership of a secret society                 |
-| Wisdom       | A sense or intuition                           |
-| Charisma     | Status, birthright, title, reputation          |
+| Family       | grew up outdoors e.g. farming, animal training |
+| Company      | joined explorers or travellers                 |
+| Legacy       | immunity, resistance, unusual trait            |
 
-When thinking about your Legacy consider:
+#### Dexterity
 
-* Did your people come from a certain place?
-* Did they make any enemies? Are they in debt to anyone?
+| Dexterity | example                         |
+|:--------- |:------------------------------- |
+| Family    | family had a trade or craft     |
+| Company   | apprenticed to a guild          |
+| Legacy    | entrusted with an arcane device |
 
-At the world-building phase, your Legacy will be connected to some kind of Mystery or Legend.
+#### Intelligence
 
-### 2.4 Demon
+| Intelligence | example                                                                                 |
+|:------------ |:--------------------------------------------------------------------------------------- |
+| Family       | family were specialists of some kind e.g. guides, cartographers, scientists, historians |
+| Company      | obtained a position in an organisation e.g. trading, politics                           |
+| Legacy       | inherited membership of a secret society                                                |
 
-Your **Demon** is your magic. Whether this is an actual demon conjured by a sorcerer, a priest's allegiance to a greater power, or some kind of self-actualisation or innate magic (supernatural powers, lycanthropy, etc.) it will work the same mechanically.
+#### Wisdom
 
-Design your Demon:
+| Wisdom  | example                                  |
+|:------- |:---------------------------------------- |
+| Family  | grew up in a cult or religious community |
+| Company | joined a cult                            |
+| Legacy  | innate magical sense or intuition        |
 
-1. Tag one of your Ability Scores to infect. This is the Demon's **Entry Point**. The tagged score doesn't need to be one of those you've tagged before.
-2. Decide on your Demon's **Form**.
-3. Mark off any one of the notches on the Demon Track (6 per ability score, 36 total). Start with a single Magic Die.
-4. Work out your PC's Elan. For every 100 points of Elan, mark off another notch on the Demon Track.
-5. Mark off extra magic dice. If the three notches under a House are marked, you get another die.
-6. If the Demon's corruption enters a segment tagged with a Background, that Background is corrupted.
+#### Charisma
 
-#### Entry Point and Need
+| Charisma | example                                     |
+|:-------- |:------------------------------------------- |
+| Family   | grew up around influential or famous people |
+| Company  | fell in with artists or players             |
+| Legacy   | birthright (title, status, etc)             |
 
-Your Demon got in somewhere on the Wheel. Use this this Entry Point to decide how your Demon came about. Demons are all about meeting some **Need**, and the Entry Point will map onto a particular Realm; this will indicate the kind of aid the Demon provided.
+### 1.3 Demon
 
-There are six demonic Realms which map onto the six Ability Scores on the Wheel. Your Demon can access that Realm's **Suits** (magical petitions) if it has one or more segments ticked off. The six Realms and their relationship to the Ability Scores are:
+Your **Demon** is something that sets you apart from others. It could be literally a conjured being, but it could also be a connection to a god, arcane knowledge, or skill beyond what is normally thought possible. The really important points are:
 
-| Microcosm    | Macrocosm   | Suits                           |
+- using the Demon's power causes it to grow
+- when the Demon grows, it causes corruption in the character.
+
+The six *Demonic Realms* of the Macrocosm map onto the Microcosm of the human Ability Scores:
+
+| Microcosm    | Macrocosm   | Suits (spells)                  |
 |:------------ |:----------- |:------------------------------- |
 | Strength     | Puissance   | Force, destruction, combat      |
 | Constitution | Durance     | Armour, wards, banishment       |
@@ -123,108 +100,174 @@ There are six demonic Realms which map onto the six Ability Scores on the Wheel.
 | Wisdom       | Abeyance    | Conjuring and objects of desire |
 | Charisma     | Obeisance   | Enchantments and possession     |
 
-Some example Needs:
+The Demon *infects* the Wheel via the **Demon Track**. As it grows the infection spreads, which will
 
-* I needed to survive (CON)
-* I needed to understand (INT)
-* I needed to control someone (CHA)
-* I needed something from my dreams (WIS)
+- give the PC more **Magic Dice**,
+- give access to more Realms and therefore different powers
+- **Corrupt** Backgrounds it touches
 
-Although this is just colour, it should really round out the character.
+To design the Demon do this:
 
-#### Form
+1. Decide on the **Form**, e.g.
+   - A pact with higher powers
+   - Channeling the energies of other planes, i.e. sorcery
+   - A monstrous dark half (e.g. lycanthropy)
+   - Exceptional skill or dedication (e.g. the greatest warrior, stepping between shadows)
+2. Tag one of your Ability Scores as the Demon's **Root** (this is used in Worldbuilding)
+   - Mark off any one of the notches on the Demon Track on that segment
+   - Start with a single Magic Die
+3. Work out your PC's **Elan**, their current tally of how much they're in debt to the Demon
+   - Up to the game group what kind of score to work with. 300 is low level, 900 is middling and 1500 would be high
+   - For every 100 points of Elan, mark off another notch on the Demon Track
+   - When all three notches under a House have been marked, mark that house and gain another Magic Die (most likely players would mark contiguous notches on the track)
+4. If even one notch is in a segment tagged with a Background, that Background is marked as Corrupted
 
-Next, decide what the Demon looks like and represents. Some examples:
+### 1.4 Shared Worldbuilding
 
-* A Pact with higher powers (a god, a cult, etc.). Your Demon is your God or Master.
-* Channeling the energies of other planes (sorcery). Your Demon is the elemental force itself; it may manifest as many minor demons or spells, but actual Demon is the magical macrocosm itself and your arcane science.
-* Externalising some internal power or magic. Your Demon is your own dark half. It may be a physical transformation at times, or it may be wholly internal.
+For the final bit of character generation, go around the table and have each player describe
 
-#### Elan
+- Homeland (from Family background)
+  - ask the player to put their homeland on a map (as specific or vaguely as you like)
+  - ask the player about their home experience, like what are the foods, natural dangers, dominant gods, etc.
+- A Group (from Company background)
+  - ask the player what group they fell in with and include specific names if you like
+  - ask them what this group was known for (good or bad), where it operated, etc.
+- Legend (from Legacy background)
+  - is it linked to a place, a tribe, another plane?
+  - did it involve any kind of trial or ceremony?
+- Root (from the Demon)
+  - Describe how the Demon appeared to you. Was it a moment of crisis, did you have some kind of revelation, did you swear any oath?
+- Corruption (from the Demon)
+  - This will be something about the previously mentioned Background that has been tainted by the character's own ambition and negative actions
+  - For a Family Background, consider the character's relationship to their family and its reputation, and reasons they might have been exiled from or fled their Homeland
+  - For a Group, think about what might have happened to cause the character to part ways with comrades and what bad blood there might be between them
+  - For a Legacy, consider any offences that the ancestor/tribe caused, or obligations they passed on to you
 
-Next, mark off one Notch on the wheel, to indicate your Entry Point. Add one Magic Die for free. Set your Elan to 100 to start.
+## 2.0 Playing
 
-Now, the group should decide how much magical power is in play, both individually and at a group level. Before you do this, not that this game is designed so that PCs will little (or suppressed) magical ability can play perfectly well alongside the magically astute (or corrupt).
+### 2.1 Ability Checks
 
-Here's a few suggestions on how to work out the starting power levels:
+In general, make **Ability Checks** by rolling as d20 trying get equal to or below that score but as high as you can. As a rule of thumb
 
-* Just agree. All the players say what their preference is for starting out. Low level might be below 300 points of Elan; medium up to 900; high at 1500 or more.
-* Randomly. Use a formula like `Elan=(sum(nd10)*100)+d100` where n is a number between 0 and 3.
-* Blind. The Referee puts a bunch of glass tokens in a bowl or bag. Each player reaches into the bag and draws out as many as they want in a single handful. Each red token is worth 50 Elan, green tokens are 200, black tokens get handed to the referee to cause misery later.
+- a result of 5+ is generally successful
+- a result of 10+ is a great result
+- a result of 1-4 is a partial success
+- hitting your Ability Score exactly is a critical success
 
-#### Dice
+This is the basic procedure for all tests, combat rolls, saving throws, etc.
 
-Once you know how much Elan you have, every 100 points is an extra notch on the Wheel. Every time the three notches under a House get marked, the PC gets access to that House and increases their Magic Dice by 1.
+### 2.2 Advantage and Disadvantage
 
-#### Corruption
+If you have a Background, cunning plan, superiour position, better equipment, or other benefit that might help with the attempt, you might get Advantage on the roll; roll 2d20 and pick the result you prefer. If you have some kind of penalty, you might get a Disadvantage; roll 2d20 and the Referee picks the result they prefer.
 
-If any notch marks a segment with one of the PC's Backgrounds, that Background is Corrupted.
+Advantage and Disadvantage cancel each other out.
 
-### 2.5 World
+### 2.3 Harm
 
-Player background is "player facing" by default. In other words, the other players know your character, and more importantly the other PCs have heard of your character.
+The **Harm Track** has boxes equal to CON. When damage is taken, mark a box as follows:
 
-The final stage of character generation is the World. You're going to do this collaboratively around the table, going round the group three times.
+- with a tick if the damage is just fatigue. Recovery over hours
+- with a cross if it's a wound. Recover over days, with medical treatment
+- with a star if it's a deep wound (or something else that's hard to heal). Recovery only with special treatment
 
-This phase can take as long as the group likes. It may be an ideal way to round off a "session zero".
+If the Harm Track gets filled up, roll saving throw to prevent unconsciousness (if more than half the boxes are fatigue) or death (if more than half the boxes are wounds). Any further damage will turn ticks into crosses and crosses into stars on the track.
 
-#### First round: Homelands
+### 2.4 Angst
 
-**Homelands** are linked to each PC's Family background. Going round the table, ask each player to point to their homeland. Other players (inc. ref) can also ask questions about the region or nation, for example:
+The **Angst Track** is filled up like the Harm Track, starting at 1. Angst increases:
 
-* what are the natural predators?
-* what does this region produce?
-* what is the local government like?
-* what is the attitude to magic?
+- one point for every active Suit (spell)
+- at points of cosmic significance (per the scenario)
+- bad luck or karmic adjustment, per the Referee's judgement
 
-For an established setting, if the player doesn't know then they might need to defer to the ref. But at the same time, they should be as creative as the group wants to be.
+When you roll a saving throw, if you pass but don't roll higher than your Angst, the Referee takes a token for later use. These tokens may be used to introduce random threats in the game.
 
-Also, describe the region in the context that the PC sees it. For example if they were born to wealth they're probably aware that there are poor citizens but their POV will be biased by their own experience.
+Angst is not healed but can go down between adventures/campaigns, usually by defeating enemies, restoring peace and stability, etc.
 
-Last, if any of the players has a corrupted Family background, also ask some pointed questions, for example:
+### 2.5 Hazards and Saving Throws
 
-* what is your family notorious for?
-* how has your behaviour affected your family's reputation?
-* what reprehensible act or twist of fate forced you away from your Homeland?
-* who from your Homeland is hunting you, and why?
+Most of the time Saving Throws are against CON (physical stuff) or WIS (mental attacks) but sometimes another Ability Score may make more sense.
 
-The player with the corrupted Background should play ball here, but they should also get to veto any question that implies a background that's really at odds with their concept.
+| Hazard                        | Saving Throw | Failed Save              |
+|:----------------------------- |:------------ |:------------------------ |
+| Poison, radiation, disease    | CON          | Take damage              |
+| Paralysis                     | CON or STR   | Paralysed                |
+| Petrification, Polymorph      | CON or CHA   | Physical change          |
+| Devices (rods, staves, wands) | DEX          | Suffer effects of device |
+| Dragon breath, explosions     | CON or DEX   | Take damage per effect   |
+| Mind control spells           | INT          | In thrall                |
+| Traps                         | INT or DEX   | Suffer effect of trap    |
+| Illusions, trickery           | INT          | Confused or misdirected  |
 
-#### Second round: Groups
+## 3.0 Combat
 
-Now you have the hang of things, go around the table again.
+### 3.1 Combat Terms
 
-**Groups** are people the PCs have come into contact with, linked to Company. Each player should name a group of people they were connected with as part of their career. This is likely to be the people they actually trained with (a mercenary group, a guild, etc.) but it could also be a wider organisation of which their Company is a part (e.g. the guild they trained with is one of many). It could even be a rival organisation. This section is really about social organisation and how different interest groups interact.
+Combat is broken into **Rounds**. The order of action is **Initiative**.
 
-Some sample questions:
+**Attacks** and **Defences** are Ability Checks made by PCs.
 
-* name one or two key characters in the group
-* what are the group's well-known achievements or abilities?
-* where and when is the group active?
-* who are their enemies?
-* what is their motif, gang colours, habits, territory, playground?
+Monsters don't roll dice; if they're close enough to attack, they attack and the PC defends.
 
-As before, spend as long as the players want. If any of them have a corrupted Company background, ask a few negative questions:
+PCs do damage to a monster's **Hit Points**.
 
-* what happened to cause your acrimonious parting with the group?
-* what did you do with your Company that earned all of you a bad rep?
+Monsters do damage which causes **Harm** (*fatigue*, *wounds*, etc) to a PC.
 
-#### Third round: Legends
+### 3.2 Combat Stances
 
-The final round is about creating mysteries and legends connected with your Legacy. Go as wildly creative with this one as you like. This could be anything from a heroic or notorious figure in the character's ancestry, to lost races, ancient feuds, debts to supernatural entities, origins from other dimensions, magically hidden territories or more.
+In a fight there are six kinds of **Combat Stance**:
 
-Use the PC's stated Legacy to kick out ideas. Some starting points for questions:
+| Ability | Stance       | Actions                                                                       |
+|:------- |:------------ |:----------------------------------------------------------------------------- |
+| STR     | Pursue       | Attack as priority. Close distance with monsters. May be separated from party |
+| CON     | Defend       | Defend as priority. If a monster comes into distance, attack                  |
+| DEX     | Flank        | Hide as priority. If opportunity to attack, take the shot (missile, backstab) |
+| INT     | Device/Magic | Cast a spell or use a magic item, do not attack                               |
+| WIS     | Observe      | Wait and see. Do not attack, but able to alert rest of party                  |
+| CHA     | Talk         | Don't attack, but take social action with enemy (intimidate, charm, etc.)     |
 
-* is the Legacy linked to a place, a people, another plane?
-* did it involve hardship, a trial, or deed?
-* is anyone jealous of the Legacy?
+### 3.3 Combat Rounds
 
-For corruption, consider these negative questions:
+Every **Combat Round**:
 
-* what debt did your ancestor owe that you've now inherited?
-* what offence did your ancestor or people cause?
-* what taint does your blood carry?
+1. Choose Combat Stance
+2. Roll **Initiative** on DEX. If you pass you go before the monsters; if you fail, you go after
+3. Resolve actions *before monsters*, including any attacks, readying spells, etc.
+   - roll attacks by rolling vs STR and working out **Party Damage**
+4. Monsters act
+   - if monster is in range of party, assume they attack (unless they have some specific action)
+   - Defend by rolling vs DEX (or CON, if you have cover/a shield etc.). If you fail, take **Monster Damage**
+5. Resolve actions *after monsters*
+   - roll attacks, etc.
 
-### 2.6 Wrapping up
+### 3.4 Doing Damage
 
-Basically, you're done. You may have some book-keeping to do, and some final touches like making a note of your CON and WIS on the various tracks, noting down preferred weapons and armour, clothes, trappings and so on. But otherwise, you should be ready for play!
+The damage system is asymmetrical. PCs take Harm, one box at a time. Monsters on the other hand have Hit Points and PCs might do 5, 10 or even 20+ points of damage in a hit.
+
+For PC damage to Monsters:
+
+- take the number rolled on the d20 for the attack as the base damage
+- subtract the monster's AC
+- add the damage done by the weapon (e.g. if it's 1d8 sword, roll that and add)
+
+For Monsters doing damage to PCs:
+
+- roll the dice specified in the monster stat block
+- for each die, compare with the character's AC
+  - if the die roll beats the AC by 1 or 2 points, mark Fatigue (tick)
+  - if the die roll beats AC by 3 or more points, mark a Wound (cross)
+  - if it doesn't beat AC, no damage is done
+- **important**: monsters only do a *maximum* of one Harm per die rolled
+  - if a monster stat block shows 2 (or more!) dice, resolve those two dice separately vs. the character's AC
+
+*A note about Armour Class*: whilst the damage system is asymmetric, AC is on the same scale. Even 1 point of AC is worth having and in general AC1 is light armour, AC2 is medium and AC3 is heavy. Monsters regularly have more AC because they're huge, strange, not of this plane, have unexpected organs, or otherwise not as squishy as humans.
+
+### 3.5 Monster stat blocks
+
+Use “old school” monster stat blocks with as little modification as possible, using the unholy trinity of Armour Class, Hit Points and Damage.
+
+* AC is ascending from 1 upwards (so convert by taking the difference from unarmoured AC9 or AC10, etc.)
+* Hit dice should just be rolled as you would normally to get a pool of hit points per monster
+* Damage is rolled as stated in the stat block. Either ignore any adds (e.g. the "+2" of "2d8+2") or convert those adds to an extra die (say, a cheeky 1d4)
+
+Monsters might have all kinds of special/magical effects like poison, paralysis, spell effects, etc. Generally treat these as things that happen instead of a damage roll, using judgement (if the effect requires touch, if it's ranged, etc.).
