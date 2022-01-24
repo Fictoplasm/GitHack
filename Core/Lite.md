@@ -274,15 +274,43 @@ Monsters might have all kinds of special/magical effects like poison, paralysis,
 
 ## 4.0 Magic
 
-To do magic:
+Magic is about making appeals (Suits) to the six demonic Realms.
 
-1. Referee and player agree on the spell effect and the target number for the effect.
-	- what the character can do depends on the **Circle** they have access to
+### 4.1 Effects
+
+**The Effect** is the kind of spell, or **Suit** (appeal) you're casting. You can only make Suits with the Realms touched by your Demon. These are the types of Effect:
+
+| Microcosm    | Macrocosm   | Suits (spells)                  |
+|:------------ |:----------- |:------------------------------- |
+| Strength     | Puissance   | Force, destruction, combat      |
+| Constitution | Durance     | Armour, wards, banishment       |
+| Dexterity    | Contrivance | Transport, teleportation, gates |
+| Intelligence | Voyance     | Scrying, divination, knowledge  |
+| Wisdom       | Abeyance    | Conjuring and objects of desire |
+| Charisma     | Obeisance   | Enchantments and possession     |
+
+### 4.2 Power Levels
+
+There are three circles of power based on the level of access the character's Demon has to the Realm:
+
+| Circle | Prerequisite | Scope                                                               | Difficulty |
+|:------ |:------------ |:------------------------------------------------------------------- |:---------- |
+| First  | One segment  | Individuals, non-lethal, temporary changes, remedies                | 10+        |
+| Second | One House    | Groups, deadly force, lasting changes, conjuring items and servants | 15+        |
+| Third  | Both Houses  | Significant and permanent changes, summoning gods                   | 25+        |
+
+The *Scope* will be the general limits on what the PC's Demon can do. The *Difficulty* gives some idea of the relative difficulty of achieving 
+
+	- depends on the Realm you're trying to access
 	- the more challenging the spell, the higher the overall target number
 	- at this point, the ref might also specify what could happen if the PC fails
 2. Player rolls a d20 (or two) for the base casting.
-	- any kind of preparation (rituals, a **Grimoire**, etc.) counts as advantage. Rushed casting might be at a disadvantage.
-3. Player commits any number of Magic Dice (min 1) to the spell, rolling them
+	- any kind of preparation (rituals, a grimoire, etc.) counts as advantage. Rushed casting might be at a disadvantage.
+	- The result will either be a pass or fail. If it's a pass, take the number on the die as the initial success level (see next)
+3. To make the magic work, you need to hit the target number
+  -
+
+   Player commits any number of Magic Dice (min 1) to the spell, rolling them
 	- any roll of 8+ on a die is added to the PC's Elan
 	- these dice are committed to the **Suit**, and can't be used for other things for as long as the spell is active
 	- dice committed raise the PC's Angst 1-for-1 temporarily while the spell is active
