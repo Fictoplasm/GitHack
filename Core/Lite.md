@@ -293,13 +293,13 @@ Magic is about making appeals (Suits) to the six demonic Realms.
 
 There are three circles of power based on the level of access the character's Demon has to the Realm:
 
-| Circle | Prerequisite | Scope                                                               | Difficulty |
-|:------ |:------------ |:------------------------------------------------------------------- |:---------- |
-| First  | One segment  | Individuals, non-lethal, temporary changes, remedies                | 10+        |
-| Second | One House    | Groups, deadly force, lasting changes, conjuring items and servants | 15+        |
-| Third  | Both Houses  | Significant and permanent changes, summoning gods                   | 25+        |
+| Circle | Prerequisite | Scope                                                   | Diff |
+|:------ |:------------ |:------------------------------------------------------- |:---- |
+| First  | One segment  | Individuals, non-lethal, temporary changes, remedies    | 10+  |
+| Second | One House    | Groups, deadly, lasting changes, conjure items/servants | 15+  |
+| Third  | Both Houses  | Significant and permanent changes, summoning gods       | 25+  |
 
-The *Scope* will be the general limits on what the PC's Demon can do. The *Difficulty* gives some idea of the relative difficulty of achieving 
+The *Scope* will be the general limits on what the PC's Demon can do. The *Difficulty* gives some idea of the relative difficulty of achieving
 
 	- depends on the Realm you're trying to access
 	- the more challenging the spell, the higher the overall target number
