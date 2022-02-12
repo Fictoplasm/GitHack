@@ -5,24 +5,75 @@ Version 1.0
 Ralph Lovegrove
 Jan 2022
 
-## 1.0 Creating Characters
+## 1.0 Glossary
 
-### 1.1 Ability Scores
+| Term          | Means                                                                        |
+|:------------- |:---------------------------------------------------------------------------- |
+| Ability Score | One of six scores that make up the character's abilities                     |
+| Realm         | One of the six demonic Realms, the source of all magic                       |
+| Suit          | An appeal or spell in magic, that accesses a demonic Realm                   |
+| Effect        | The intended outcome of a magical Suit                                       |
+| Price         | The difficulty of a magical Suit                                             |
+| Grimoire      | A collection of Suits, sometimes written down, personal to a sorcerer        |
+| Background    | The life experience of the character before play                             |
+| Advantage     | An edge in play, allowing the PC to roll 2d20 and pick the better result     |
+| Stance        | One of the six statements of intent in combat                                |
+| Armour Class  | A rating for armour in combat                                                |
+| Damage        | Damage done by PCs against monsters in combat                                |
+| Harm          | Damage done to PCs, recorded on the Harm Track                               |
+| Angst         | A PC's level of psychic dread, which foreshadows doom                        |
+| Magic Dice    | Raw magical ability to cast Suits                                            |
+| Glyph         | The lowest level of magic                                                    |
+| Familiar      | The intermediate level of magic                                              |
+| Pact          | The highest level of magic, where vast forces are permitted to walk on Earth |
+| Demon         | A PC's personal dark side, their drive or ambition                           |
+| Elan          | The Demon's growing strength                                                 |
+| Root          | The Demon's origin on the character sheet                                    |
+| Demon Track   | 36 segments around the Wheel which mark the extent of the Demon's power      |
+| House         |                                                                              |
+| Segment       |                                                                              |
+| Wheel         |                                                                              |
+| Corruption    |                                                                              |
+| Circle        |                                                                              |
+| Family        |                                                                              |
+| Company       |                                                                              |
+| Legacy        |                                                                              |
+| Puissance     |                                                                              |
+| Durance       |                                                                              |
+| Contrivance   |                                                                              |
+| Voyance       |                                                                              |
+| Abeyance      |                                                                              |
+| Obeisance     |                                                                              |
+| Strength      |                                                                              |
+| Constitution  |                                                                              |
+| Hit Points    |                                                                              |
+| Dexterity     |                                                                              |
+| Intelligence  |                                                                              |
+| Wisdom        |                                                                              |
+| Charisma      |                                                                              |
+
+## 2.0 Creating Characters
+
+
+
+
+
+### 2.1 Ability Scores
 
 Generate the six **Ability Scores** using any method you like (point-buy, 3d6 down the line, 4d6 drop one, etc.). Range of each score is 3-18 with 10 being average.
 
 This is what each Ability Score is used for:
 
-| Ability      | Activity                                                              |
-|:------------ |:--------------------------------------------------------------------- |
-| Strength     | opposing things physically (fighting, pushing, restraining etc)       |
-| Constitution | surviving/resisting (fatigue, damage, poison, etc)                    |
-| Dexterity    | default for many physical activities (manual dex, speed and agility)  |
-| Intelligence | default for many mental tests (knowledge and reasoning, search/scan)  |
-| Wisdom       | mental resistance and intuition (gut feel, empathy, willpower)        |
-| Charisma     | interacting with people (communicating to impress, intimidate, charm) |
+| Ability Score | Activity                                                              |
+|:------------- |:--------------------------------------------------------------------- |
+| Strength      | opposing things physically (fighting, pushing, restraining etc)       |
+| Constitution  | surviving/resisting (fatigue, damage, poison, etc)                    |
+| Dexterity     | default for many physical activities (manual dex, speed and agility)  |
+| Intelligence  | default for many mental tests (knowledge and reasoning, search/scan)  |
+| Wisdom        | mental resistance and intuition (gut feel, empathy, willpower)        |
+| Charisma      | interacting with people (communicating to impress, intimidate, charm) |
 
-### 1.2 Backgrounds
+### 2.2 Backgrounds
 
 PCs have three **Backgrounds**:
 
@@ -82,7 +133,7 @@ For each Background tag an Ability Score and write any details in the segment on
 | Company  | fell in with artists or players             |
 | Legacy   | birthright (title, status, etc)             |
 
-### 1.3 Demon
+### 2.3 Demon
 
 Your **Demon** is something that sets you apart from others. It could be literally a conjured being, but it could also be a connection to a god, arcane knowledge, or skill beyond what is normally thought possible. The really important points are:
 
@@ -91,7 +142,7 @@ Your **Demon** is something that sets you apart from others. It could be literal
 
 The six *Demonic Realms* of the Macrocosm map onto the Microcosm of the human Ability Scores:
 
-| Microcosm    | Macrocosm   | Suits (spells)                  |
+| Microcosm    | Macrocosm   | Effects                         |
 |:------------ |:----------- |:------------------------------- |
 | Strength     | Puissance   | Force, destruction, combat      |
 | Constitution | Durance     | Armour, wards, banishment       |
@@ -122,7 +173,7 @@ To design the Demon do this:
    - When all three notches under a House have been marked, mark that house and gain another Magic Die (most likely players would mark contiguous notches on the track)
 4. If even one notch is in a segment tagged with a Background, that Background is marked as Corrupted
 
-### 1.4 Shared Worldbuilding
+### 2.4 Shared Worldbuilding
 
 For the final bit of character generation, go around the table and have each player describe
 
@@ -143,9 +194,9 @@ For the final bit of character generation, go around the table and have each pla
   - For a Group, think about what might have happened to cause the character to part ways with comrades and what bad blood there might be between them
   - For a Legacy, consider any offences that the ancestor/tribe caused, or obligations they passed on to you
 
-## 2.0 Playing
+## 3.0 Playing
 
-### 2.1 Ability Checks
+### 3.1 Ability Checks
 
 In general, make **Ability Checks** by rolling as d20 trying get equal to or below that score but as high as you can. As a rule of thumb
 
@@ -156,13 +207,13 @@ In general, make **Ability Checks** by rolling as d20 trying get equal to or bel
 
 This is the basic procedure for all tests, combat rolls, saving throws, etc.
 
-### 2.2 Advantage and Disadvantage
+### 3.2 Advantage and Disadvantage
 
 If you have a Background, cunning plan, superiour position, better equipment, or other benefit that might help with the attempt, you might get Advantage on the roll; roll 2d20 and pick the result you prefer. If you have some kind of penalty, you might get a Disadvantage; roll 2d20 and the Referee picks the result they prefer.
 
 Advantage and Disadvantage cancel each other out.
 
-### 2.3 Harm
+### 3.3 Harm
 
 The **Harm Track** has boxes equal to CON. When damage is taken, mark a box as follows:
 
@@ -172,7 +223,7 @@ The **Harm Track** has boxes equal to CON. When damage is taken, mark a box as f
 
 If the Harm Track gets filled up, roll saving throw to prevent unconsciousness (if more than half the boxes are fatigue) or death (if more than half the boxes are wounds). Any further damage will turn ticks into crosses and crosses into stars on the track.
 
-### 2.4 Angst
+### 3.4 Angst
 
 The **Angst Track** is filled up like the Harm Track, starting at 1. Angst increases:
 
@@ -184,7 +235,7 @@ When you roll a saving throw, if you pass but don't roll higher than your Angst,
 
 Angst is not healed but can go down between adventures/campaigns, usually by defeating enemies, restoring peace and stability, etc.
 
-### 2.5 Hazards and Saving Throws
+### 3.5 Hazards and Saving Throws
 
 Most of the time Saving Throws are against CON (physical stuff) or WIS (mental attacks) but sometimes another Ability Score may make more sense.
 
@@ -199,9 +250,9 @@ Most of the time Saving Throws are against CON (physical stuff) or WIS (mental a
 | Traps                         | INT or DEX   | Suffer effect of trap    |
 | Illusions, trickery           | INT          | Confused or misdirected  |
 
-## 3.0 Combat
+## 4.0 Combat
 
-### 3.1 Combat Terms
+### 4.1 Combat Terms
 
 Combat is broken into **Rounds**. The order of action is **Initiative**.
 
@@ -213,7 +264,7 @@ PCs do damage to a monster's **Hit Points**.
 
 Monsters do damage which causes **Harm** (*fatigue*, *wounds*, etc) to a PC.
 
-### 3.2 Combat Stances
+### 4.2 Combat Stances
 
 In a fight there are six kinds of **Combat Stance**:
 
@@ -226,7 +277,7 @@ In a fight there are six kinds of **Combat Stance**:
 | WIS     | Observe      | Wait and see. Do not attack, but able to alert rest of party                  |
 | CHA     | Talk         | Don't attack, but take social action with enemy (intimidate, charm, etc.)     |
 
-### 3.3 Combat Rounds
+### 4.3 Combat Rounds
 
 Every **Combat Round**:
 
@@ -240,7 +291,7 @@ Every **Combat Round**:
 5. Resolve actions *after monsters*
    - roll attacks, etc.
 
-### 3.4 Doing Damage
+### 4.4 Doing Damage
 
 The damage system is asymmetrical. PCs take Harm, one box at a time. Monsters on the other hand have Hit Points and PCs might do 5, 10 or even 20+ points of damage in a hit.
 
@@ -262,7 +313,7 @@ For Monsters doing damage to PCs:
 
 *A note about Armour Class*: whilst the damage system is asymmetric, AC is on the same scale. Even 1 point of AC is worth having and in general AC1 is light armour, AC2 is medium and AC3 is heavy. Monsters regularly have more AC because they're huge, strange, not of this plane, have unexpected organs, or otherwise not as squishy as humans.
 
-### 3.5 Monster stat blocks
+### 4.5 Monster stat blocks
 
 Use “old school” monster stat blocks with as little modification as possible, using the unholy trinity of Armour Class, Hit Points and Damage.
 
@@ -272,15 +323,11 @@ Use “old school” monster stat blocks with as little modification as possible
 
 Monsters might have all kinds of special/magical effects like poison, paralysis, spell effects, etc. Generally treat these as things that happen instead of a damage roll, using judgement (if the effect requires touch, if it's ranged, etc.).
 
-## 4.0 Magic
+## 5.0 Magic
 
-Magic is about making appeals (Suits) to the six demonic Realms.
+Magic is freeform in play, and the scope of each Suit (spell) depends on two things, the **Realm** and the **Circle**. There are six Realms of magic, which map onto the six Ability Scores:
 
-### 4.1 Effects
-
-**The Effect** is the kind of spell, or **Suit** (appeal) you're casting. You can only make Suits with the Realms touched by your Demon. These are the types of Effect:
-
-| Microcosm    | Macrocosm   | Suits (spells)                  |
+| Microcosm    | Macrocosm   | Effects                         |
 |:------------ |:----------- |:------------------------------- |
 | Strength     | Puissance   | Force, destruction, combat      |
 | Constitution | Durance     | Armour, wards, banishment       |
@@ -289,17 +336,39 @@ Magic is about making appeals (Suits) to the six demonic Realms.
 | Wisdom       | Abeyance    | Conjuring and objects of desire |
 | Charisma     | Obeisance   | Enchantments and possession     |
 
+Then there are three Circles (levels) of Magic:
+
+| Circle | Name      | Prerequisite                         |
+|:------ |:--------- |:------------------------------------ |
+| First  | Glyphs    | One or more segments                 |
+| Second | Familiars | One House in the Realm (3+ segments) |
+| Third  | Pacts     | Both Houses (all 6 segments)         |
+
+Glyphs are the least powerful, single-use kind of magic, although they're by no means weak. Familiars are autonomous and persistent; they might be called *demons* or *spirits* or by other names that indicate their seemings as living and self-aware magical creatures. Finally the Pacts are relationships with higher intelligences and powers that dwell in the magical Realm. Such Suits will open a hole between the Realm and the Earth, allowing the higher being to act on the world and re-order reality.
+
+### 4.1 Procedure
+
+This is the basic procedure for all magic:
+
+1. Decide on the Effect, which depends on the Circle and Realm they have.
+2. The Referee sets the **Price** for the Effect.
+3. Player rolls a d20 (or two) for the base casting. Any kind of preparation (rituals, a **Grimoire**, etc.) counts as advantage, and rushed casting might be at a disadvantage.
+4. If the roll was a success, it means the Suit has been answered. The number on the d20 becomes the base success level (just like any other d20 roll).
+5. Player commits any number of Magic Dice (min 1) to the spell, rolling them together. The goal is to roll higher than the Difficulty by adding the base success level on the d20 to the numbers on the magic dice.
+	- any roll of 8+ on a die is added to the PC's Elan
+	- these dice are committed to the spell, and can't be used for other things for as long as the spell is active
+	- dice committed raise the PC's Angst 1-for-1 temporarily while the spell is active
+
+### 4.2 Effects
+
+**The Effect** is the kind of spell, or **Suit** (appeal) you're casting. You can only make Suits with the Realms touched by your Demon. These are the types of Effect:
+
+
 ### 4.2 Power Levels
 
 There are three circles of power based on the level of access the character's Demon has to the Realm:
 
-| Circle | Prerequisite | Scope                                                               | Difficulty |
-|:------ |:------------ |:------------------------------------------------------------------- |:---------- |
-| First  | One segment  | Individuals, non-lethal, temporary changes, remedies                | 10+        |
-| Second | One House    | Groups, deadly force, lasting changes, conjuring items and servants | 15+        |
-| Third  | Both Houses  | Significant and permanent changes, summoning gods                   | 25+        |
-
-The *Scope* will be the general limits on what the PC's Demon can do. The *Difficulty* gives some idea of the relative difficulty of achieving 
+The *Scope* will be the general limits on what the PC's Demon can do. The *Difficulty* gives some idea of the relative difficulty of achieving
 
 	- depends on the Realm you're trying to access
 	- the more challenging the spell, the higher the overall target number
